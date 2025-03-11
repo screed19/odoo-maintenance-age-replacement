@@ -24,21 +24,26 @@ Modul ini dirancang untuk membantu dalam **mengelola jadwal penggantian komponen
 
 Berikut adalah beberapa tampilan dari sistem:
 
-### **1️⃣ Form Input Komponen & Mesin**
+### **1 Form Input Komponen & Mesin**
 📌 Menunjukkan bagaimana data mesin dan komponen dikelola dalam sistem.  
-![Form Input](screenshots/form_input.png)
+![input komponen](screenshots/komponen.png)
+![input mesin](screenshots/mesin.png)
 
-### **2️⃣ Perhitungan TTF & TTR**
+### **2 Perhitungan TTF & TTR**
 📌 Inti dari metode Age Replacement, di mana sistem menghitung *Time to Failure* dan *Time to Repair*.  
 ![Perhitungan TTF TTR](screenshots/ttf_ttr.png)
 
-### **3️⃣ History Kerusakan & Frekuensi Kegagalan**
+### **3 History Kerusakan & Frekuensi Kegagalan**
 📌 Data historis kegagalan yang digunakan sebagai dasar analisis maintenance.  
 ![History Kerusakan](screenshots/history.png)
 
-### **4️⃣ Prediksi Pergantian Komponen**
+### **4 Prediksi Pergantian Komponen**
 📌 Sistem menentukan interval penggantian optimal berdasarkan metode Age Replacement.  
 ![Prediksi Pergantian](screenshots/prediksi.png)
+
+### **5 penjadwalan pergantian komponen**
+📌 Sistem menentukan kapan penggantian optimal berdasarkan metode Age Replacement.  
+![Prediksi Pergantian](screenshots/penjadwalan.png)
 
 ## 🛠️ Teknologi yang Digunakan
 
