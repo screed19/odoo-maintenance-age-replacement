@@ -36,6 +36,7 @@ Berikut adalah beberapa tampilan dari sistem:
 ### **3 History Kerusakan & Frekuensi Kegagalan**
 📌 Data historis kegagalan yang digunakan sebagai dasar analisis maintenance.  
 ![History Kerusakan](screenshots/history.png)
+![History Kerusakan](screenshots/frekuensi.png)
 
 ### **4 Prediksi Pergantian Komponen**
 📌 Sistem menentukan interval penggantian optimal berdasarkan metode Age Replacement.  
